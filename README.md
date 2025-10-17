@@ -39,6 +39,17 @@ O emulador contará com as seguintes funcionalidades:
 
 As instruções detalhadas de compilação e execução serão adicionadas aqui assim que a primeira versão funcional do projeto for concluída.
 
+---
+## Sobre Nós
+
+Esse projeto foi desenvolvido por Henrique Schorck, Adriel Soares e Augusto Pedrotti Dantas, alunos do CentroWEG, no Curso Técnico de Cibersistemas para Automação.
+
+
+
+* **GitHub Henrique:**
+* **GitHub Adriel:**
+* **GitHub Augusto:**
+  
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
