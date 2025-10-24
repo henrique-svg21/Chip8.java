@@ -46,9 +46,9 @@ Esse projeto foi desenvolvido por Henrique Schorck, Adriel Soares e Augusto Pedr
 
 
 
-* **GitHub Henrique:**
-* **GitHub Adriel:**
-* **GitHub Augusto:**
+* **GitHub Henrique:** https://github.com/henrique-svg21/
+* **GitHub Adriel:** https://github.com/adrielsoares2309/
+* **GitHub Augusto:** https://github.com/Augusto-sla/
   
 ## Licença
 
