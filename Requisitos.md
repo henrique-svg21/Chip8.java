@@ -1,16 +1,19 @@
 **Requisitos Funcionais:**
 
-* **RF01:** O sistema deve permitir que o usuário mapeie as 16 teclas do Chip-8 para as teclas do teclado do seu computador;  
-* **RF02:** O sistema deve permitir ao usuário pausar e resumir a emulação a qualquer momento;  
-* **RF03:** O sistema deve permitir ao usuário realizar um reset na emulação da ROM atualmente carregada;  
-* **RF04:** O sistema deve implementar um ciclo de CPU para processar as instruções da ROM carregada;  
-* **RF05**: O sistema deve ser capaz de emular o áudio do dispositivo;  
-* **RF06:** O sistema deve possuir interface gráfica para o usuário interagir;  
-* **RF07**: O sistema deve ser capaz de carregar ROM’s selecionadas pelo o usuário;  
-* **RF08**: O sistema deve incluir um debugger embutido, como, por exemplo, execução passo a passo;  
-  * **RF08.1:** O sistema deve permitir ao usuário visualizar o gerenciamento de memória;  
-  * **RF08.2:** O sistema deve permitir ao usuário visualizar os registradores;  
-* **RF09**: O sistema deve possuir suporte a várias velocidades de ciclo de CPU, permitindo ao usuário controlar a velocidade de execução.  
+* **RF01:** O sistema deve possuir um botão para iniciar a emulação;
+* **RF02:** O sistema deve permitir ao usuário encerrar a emulação a qualquer momento;  
+* **RF03:** O sistema deve permitir que o usuário mapeie as 16 teclas do Chip-8 para as teclas do teclado do seu computador;  
+* **RF04:** O sistema deve permitir ao usuário pausar a emulação a qualquer momento;
+* **RF05:** O sistema deve permitir ao usuário retomar a emulação a qualquer momento;  
+* **RF06:** O sistema deve permitir ao usuário realizar um reset na emulação da ROM atualmente carregada;  
+* **RF07:** O sistema deve implementar um ciclo de CPU para processar as instruções da ROM carregada;  
+* **RF08:** O sistema deve ser capaz de emular o áudio do dispositivo;  
+* **RF09:** O sistema deve possuir interface gráfica para o usuário interagir;  
+* **RF10:** O sistema deve ser capaz de carregar ROM’s selecionadas pelo o usuário;  
+* **RF11:** O sistema deve incluir um debugger embutido, como, por exemplo, execução passo a passo;  
+* **RF12:** O sistema deve permitir ao usuário visualizar o gerenciamento de memória;  
+* **RF13:** O sistema deve permitir ao usuário visualizar os registradores;  
+* **RF14:** O sistema deve possuir suporte a várias velocidades de ciclo de CPU, permitindo ao usuário controlar a velocidade de execução.  
   
 
 
