@@ -26,7 +26,7 @@
 * **RNF05:** O sistema deve possuir um código-fonte que segue os padrões de codificação da linguagem Java;  
 * **RNF06:** O sistema deve possuir uma vasta documentação, explicando o funcionamento do mesmo;  
 * **RNF07**: O sistema deve ser executável em qualquer dispositivo que possua uma Java Virtual Machine (JVM);  
-* **RNF08**: O sistema deve ser compatível com o conjunto padrão de ROM’s do Chip8;
+* **RNF08**: O sistema deve ser compatível com o conjunto de ROM’s clássicas do Chip8;
 
 
 
