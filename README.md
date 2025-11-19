@@ -38,7 +38,7 @@ O emulador contará com as seguintes funcionalidades:
 ## 📂 Documentação
 
 A documentação completa do projeto pode ser encontrada no arquivo:
-* [Documentação Completa Chip8.docx](./caminho/para/o/arquivo.docx)
+* [Documentação Completa Chip8.docx]
 
 ## Como Executar 
 
