@@ -35,6 +35,11 @@ O emulador contará com as seguintes funcionalidades:
 * **Interface Gráfica:** JavaFX
 * **Gerenciamento de Build:** Não definido
 
+## 📂 Documentação
+
+A documentação completa do projeto pode ser encontrada no arquivo:
+* [Documentação Completa Chip8.docx](./caminho/para/o/arquivo.docx)
+
 ## Como Executar 
 
 As instruções detalhadas de compilação e execução serão adicionadas aqui assim que a primeira versão funcional do projeto for concluída.
