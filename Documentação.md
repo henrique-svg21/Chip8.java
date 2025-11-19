@@ -4,6 +4,7 @@
 |Versao|Data|Autor|Descrição|
 |:----:|:--:|:---:|:-------:|
 |1.0|14/11/2025|Augusto P. Dantas|Criação do documento|
+|2.0|19/11/2025/Augusto P. Dantas|
 
 ## Índice
 1. INTRODUÇÃO
@@ -23,3 +24,14 @@
     6. IDENTIFICAÇÃO DOS CASOS DE USO
     7. DIAGRAMA DE CASOS DE USO
     8. DIAGRAMA DE CLASSES 
+
+
+# Propósito do Documento
+
+Esse documento tem o objetivo de detalhar os requisitos dos usuários que deverão ser atendidos
+pelo sistema a ser construído nesse projeto. Ele servirá como base para a construção do sistema
+por parte dos programadores.
+Aqui estará presente uma descrição detalhada das funções do produto, de suas interfaces e do
+comportamento esperado do sistema. 
+
+# Premissas
