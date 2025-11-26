@@ -34,9 +34,9 @@ public class GraphicsPanel extends JPanel {
 
         // load images 
 	try {
-            menuImg = ImageIO.read(new File("1.png"));
-            settingsImg = ImageIO.read(new File("2.png"));
-            controllersImg = ImageIO.read(new File("3.png"));
+            menuImg = ImageIO.read(new File("src/1.png"));
+            settingsImg = ImageIO.read(new File("src/2.png"));
+            controllersImg = ImageIO.read(new File("src/3.png"));
         } catch (IOException e) {
             System.err.println("Erro ao carregar imagens do menu: " + e.getMessage());
         }
