@@ -95,8 +95,7 @@ public class Main implements Runnable {
                         }
                         break;
 
-                    case CONTROLLERS:
-                        // Qualquer tecla de retorno ou a opção 2
+                    case CONTROLLERS {
                         if (keyCode == KeyEvent.VK_2 || keyCode == KeyEvent.VK_ESCAPE) {
                             changeState(State.SETTINGS);
                         }
@@ -104,7 +103,6 @@ public class Main implements Runnable {
 
                     case GAME:
                         if (keyCode == KeyEvent.VK_ESCAPE) {
-                            // ESCAPE para PAUSAR e voltar ao MENU
                             changeState(State.MENU);
                         } else {
                             // Inputs normais do Chip-8
@@ -166,7 +164,6 @@ public class Main implements Runnable {
             lastTime = now;
 
             if (delta >= 1) {
-                // SÓ executa o ciclo da CPU se estivermos no estado GAME
                 if (currentState == State.GAME) {
                     for (int i = 0; i < cyclesPerTick; i++) {
                         chip8.chip8Cycle();
